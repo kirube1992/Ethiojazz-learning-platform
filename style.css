@@ -10,7 +10,7 @@
 
 a {
   text-decoration: none;
-  color: #272a31;;
+  color: #272a31;
 }
 
 ul {
@@ -91,12 +91,10 @@ ul {
   font-weight: 600;
 }
 
-/* ----------NAV - HAMBURGUER - FINISH------------- */
-
 .media {
   width: 100%;
   padding: 5px 20px;
-  background-color: #272a31;;
+  background-color: #272a31;
 }
 
 .media-container {
@@ -199,7 +197,7 @@ ul {
 }
 
 .home-description {
-  color: #272a31;;
+  color: #272a31;
   background-color: #f7f7f7a5;
   border: 3px solid white;
   padding: 10px;
@@ -228,7 +226,7 @@ ul {
 }
 
 .program-section {
-  background-color: #272a31;;
+  background-color: #272a31;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -317,7 +315,7 @@ ul {
 .speakers-title {
   font-size: 18px;
   font-weight: 400;
-  color: #272a31;;
+  color: #272a31;
 }
 
 .speaker-card {
@@ -348,7 +346,7 @@ ul {
 
 .speaker-name {
   font-size: 16px;
-  color: #272a31;;
+  color: #272a31;
 }
 
 .speaker-description {
@@ -499,7 +497,7 @@ ul {
   .speakers-title {
     font-size: 18px;
     font-weight: 400;
-    color: #272a31;;
+    color: #272a31;
   }
 
   .speaker-card {

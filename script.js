@@ -1,11 +1,8 @@
 const hamburguer = document.getElementById('nav-btn');
 const navMenu = document.getElementById('mobile-menu');
 const seeMoreBtn = document.getElementById('see-more');
-
 const closeMenu = document.querySelectorAll('.close-mobile-menu');
-
 const speakerContainer = document.getElementById('speakers-container');
-
 const speakers = [
   {
     name: 'Muluatu Astatike',
